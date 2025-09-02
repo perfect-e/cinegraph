@@ -1,0 +1,5 @@
+CineGraph is copyright (c) 2026 perfect-e.
+
+It uses the Neo4j database and is released under the Apache License, Version 2.0.
+The original Neo4j Movies Python Bolt source files are not included in this
+repository. The project retains this Apache-2.0 license for its own source code.
